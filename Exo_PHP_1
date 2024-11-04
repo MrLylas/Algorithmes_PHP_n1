@@ -1,0 +1,9 @@
+<h1>Exercice 1 PHP :</h1>
+
+<?php
+
+
+$chaineDeCaracteres = "Notre formation DL commence aujourd'hui";
+
+echo "La phrase Notre formation commence aujourd'hui contient $chaineDeCaracteres caractères.";
+
